@@ -34,9 +34,7 @@ The visibility of the "Do Secret option" menu item is controlled using the label
 
 The label1_x variable is used as a temporary label for toggling the visibility of the "Do Secret option" menu item. In the program, when the "Toggle Item" button is clicked, it swaps the labels between label1 and label1_x, effectively changing the displayed text of the menu item.
 
-### Here's why label1_x is needed:
-
-# Temporary Placeholder:
+## label1_x is needed as Temporary Placeholder:
 
 label1_x serves as a temporary placeholder for the label of the menu item while toggling its visibility.
 When the "Toggle Item" button is clicked, it swaps the labels between label1 and label1_x, making the menu item text appear as intended.
