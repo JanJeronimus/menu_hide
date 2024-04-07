@@ -1,5 +1,4 @@
 # Demo Program with Tkinter Menu
-
 This is a demo program that showcases how to create a simple Tkinter GUI with a menu. The program allows users to toggle, show, and hide a menu item dynamically.
 
 ## Features
@@ -29,3 +28,9 @@ This is a demo program that showcases how to create a simple Tkinter GUI with a 
 ```bash
 python demo.py
 
+```
+
+## menu_hide
+# Demo with hidden menu item
+# https://github.com/janjeronimus/menu_hide
+# J.Jeronimus - 2024

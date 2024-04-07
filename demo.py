@@ -1,9 +1,15 @@
+## menu_hide
+# Demo with hidden menu item
+# https://github.com/janjeronimus/menu_hide
+# J.Jeronimus - 2024
+
 import tkinter as tk
 from tkinter import messagebox
 
-label1        = "Do Secret option"
-label1_hidden = "Doit_hidden"
-label1_x      = label1_hidden+"_x"                # temporary for toggle function
+label1        = "Do Secret option"      # Tekst of the menu option
+label1_hidden = "Doit_hidden"           # Tekst of the menu option when hidden
+
+label1_x      = label1_hidden+"_x"      # temporary for toggle function
 
 def toggle_item():
     try:

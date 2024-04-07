@@ -1,3 +1,8 @@
+## menu_hide
+# Demo with hidden menu item
+# https://github.com/janjeronimus/menu_hide
+# J.Jeronimus - 2024
+
 # How the Program Works:
 
 ## Initialization:
