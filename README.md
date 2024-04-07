@@ -30,7 +30,10 @@ python demo.py
 
 ```
 
-## menu_hide
-# Demo with hidden menu item
-# https://github.com/janjeronimus/menu_hide
-# J.Jeronimus - 2024
+## About menu_hide
+
+Demo with hidden menu item
+
+https://github.com/janjeronimus/menu_hide
+
+J.Jeronimus - 2024
